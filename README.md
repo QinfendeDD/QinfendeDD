@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on Machine Vision & Computer Vision;
 - 🌱 I’m currently learning College.
 # OS
-![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)]
-![](https://img.shields.io/badge/OS-%20Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=ffffff)]
+![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-%20Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 # Editor
 [![](https://img.shields.io/badge/Pycharm-f5010c?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.apple.com/)
