@@ -4,4 +4,3 @@
 
 - 🔭 I’m currently working on Machine Vision & Computer Vision;
 - 🌱 I’m currently learning College.
-
