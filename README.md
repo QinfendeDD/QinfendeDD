@@ -11,8 +11,11 @@
 
 # Editor
 [![](https://img.shields.io/badge/Pycharm-f5010c?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/IntelliJ-f5010c?style=flat-square&logo=IntelliJ&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/IntelliJ-IDEA-f5010c?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/QT-f5010c?style=flat-square&logo=QT&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Jupyter-f5010c?style=flat-square&logo=Jupyter&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/WebStorm-f5010c?style=flat-square&logo=WebStorm&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Visual-Studio-Code-f5010c?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://www.apple.com/)
 
 # Programming Language
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
