@@ -4,7 +4,7 @@
 ## Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=QinfendeDD.readme)
 - 🔭 I’m currently working on Machine Vision & Computer Vision;
-- 🌱 I’m currently learning College.
+- 🌱 I’m currently working in Alibaba.
 # OS
 ![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-%20Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=ffffff)
